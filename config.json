@@ -1,0 +1,182 @@
+{
+  "name": "Joatan Sampaio",
+  "description": "Software Engineer",
+  "github": "joatansampaio",
+  "playlists": {
+    "games": [
+      {
+        "title": "Dead by Daylight x Chucky - Official Announcement Trailer",
+        "url": "https://www.youtube.com/watch?v=DReCsIS35_Q",
+        "thumbHover": "https://i.ytimg.com/an_webp/-xnmDzXe1M0/mqdefault_6s.webp?du=3000&sqp=CN3cr6oG&rs=AOn4CLDJM94wzqwj51q61uTZQcNdENwGpg",
+        "thumb": "https://i.ytimg.com/vi/DReCsIS35_Q/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7Jva85X7yPu8SpvO_nzcLRBEo_g"
+      },
+      {
+        "title": "5 Upcoming MMOs Worth Checking Out",
+        "url": "https://youtu.be/Z5Ccef7FONo",
+        "thumbHover": "https://i.ytimg.com/an_webp/Z5Ccef7FONo/mqdefault_6s.webp?du=3000&sqp=CILpr6oG&rs=AOn4CLAXMFi2zNUSD3rIUskjXDSRqldlmQ",
+        "thumb": "https://i.ytimg.com/vi/Z5Ccef7FONo/hqdefault_14000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAIEKHqC2kor9NxTgSBUMmDjDzeTQ"
+      },
+      {
+        "title": "Only $4000 to BEAT Round 76 in BTD6!",
+        "url": "https://youtu.be/b-YkAG7kG6E",
+        "thumbHover": "https://i.ytimg.com/an_webp/b-YkAG7kG6E/mqdefault_6s.webp?du=3000&sqp=CMXDr6oG&rs=AOn4CLDyWwtvkwhFT2TmJreLxPOfsPK1Rw",
+        "thumb": "https://i.ytimg.com/vi/b-YkAG7kG6E/hqdefault_24000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCHMPLYRSWLL8YCTzj4GybL6RvBXA"
+      },
+      {
+        "title": "Assassin's Creed Mirage's Crazy Ending EXPLAINED",
+        "url": "https://youtu.be/F1kKPJ_6CuM",
+        "thumbHover": "https://i.ytimg.com/an_webp/F1kKPJ_6CuM/mqdefault_6s.webp?du=3000&sqp=CIOPsKoG&rs=AOn4CLD0VAga5RSfMqdwIfN-a1Xv0K2FPQ",
+        "thumb": "https://i.ytimg.com/vi/F1kKPJ_6CuM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAiuogR8cJQBsExk69UX9ORGH75uQ"
+      },
+      {
+        "title": "The Witcher 3: The ULTIMATE Beginners Guide (2021)",
+        "url": "https://youtu.be/mJ1KCTsi1QM",
+        "thumbHover": "https://i.ytimg.com/an_webp/mJ1KCTsi1QM/mqdefault_6s.webp?du=3000&sqp=CI_ur6oG&rs=AOn4CLCJcNEXex6uOLOc1O6mOj4-MTogww",
+        "thumb": "https://i.ytimg.com/vi/mJ1KCTsi1QM/hqdefault_22933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpz_AtGoD_Jf2AoyJCI7r9KbqLvA"
+      },
+      {
+        "title": "10 Single Player Games Worth Spending 100+ Hours",
+        "url": "https://youtu.be/q64FZeRB8ss",
+        "thumbHover": "https://i.ytimg.com/an_webp/q64FZeRB8ss/mqdefault_6s.webp?du=3000&sqp=COX_r6oG&rs=AOn4CLCiy2QsE3ViPgw3LHxYqLsBAwZqzQ",
+        "thumb": "https://i.ytimg.com/vi/q64FZeRB8ss/hqdefault_13900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKRu6C70NihhY8Mcw4fT9VzmG5kg"
+      },
+      {
+        "title": "The Bannerlord Online Mod Is Amazing! Big Updates in 2023!",
+        "url": "https://youtu.be/ZmATA0z7RaI",
+        "thumbHover": "https://i.ytimg.com/an_webp/ZmATA0z7RaI/mqdefault_6s.webp?du=3000&sqp=CLrFr6oG&rs=AOn4CLBwg2OPMOdTgT7i7-ijcCx2uFIBEw",
+        "thumb": "https://i.ytimg.com/vi/ZmATA0z7RaI/hqdefault_21933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQXSv2Y4BoaXuP8G9EbE6sZVONaw"
+      },
+      {
+        "title": "Horizon Zero Dawn Full Story Recap",
+        "url": "https://youtu.be/Nopfzl_oIdw",
+        "thumbHover": "https://i.ytimg.com/an_webp/Nopfzl_oIdw/mqdefault_6s.webp?du=3000&sqp=CMyEsKoG&rs=AOn4CLB-ukAkf9NMWNG87HzfSkUa-KrYsw",
+        "thumb": "https://i.ytimg.com/vi/Nopfzl_oIdw/hqdefault_13933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDV34mDv_buWPtgAN7GtF89JZgpBQ"
+      },
+      {
+        "title": "Grand Theft Auto VI Official Reveal...The BIGGEST Teaser EVER!",
+        "url": "https://youtu.be/s5LnBaekRpk",
+        "thumbHover": "https://i.ytimg.com/an_webp/s5LnBaekRpk/mqdefault_6s.webp?du=3000&sqp=CLqMsKoG&rs=AOn4CLB9GZSAC5X1CZHBaxUV-OKFq7Av1g",
+        "thumb": "https://i.ytimg.com/vi/WXW07BA5FmU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSha1MxIeHKGDfuMg16JwARIL7AA"
+      }
+    ],
+    "software engineering": [
+      {
+        "title": "MAXIMUM CRINGE Programming Language Tier List | Prime Reacts",
+        "url": "https://youtu.be/SXHsPKPD_eo",
+        "thumbHover": "https://i.ytimg.com/an_webp/SXHsPKPD_eo/mqdefault_6s.webp?du=3000&sqp=CLL0r6oG&rs=AOn4CLCDwuTci-jIVcJYyWTIQcYTzhdEEA",
+        "thumb": "https://i.ytimg.com/vi/SXHsPKPD_eo/hqdefault_27000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDumETW-v64FzSgzORyCBQuvl_5kw"
+      },
+      {
+        "title": "How Instagram Grew to 14M with ONLY 3 Engineers",
+        "url": "https://youtu.be/lrg8ZWI7MCg",
+        "thumbHover": "https://i.ytimg.com/an_webp/lrg8ZWI7MCg/mqdefault_6s.webp?du=3000&sqp=CPjUr6oG&rs=AOn4CLCwt5J7BPIjPakLzkCOdRKrq8S4iQ",
+        "thumb": "https://i.ytimg.com/vi/lrg8ZWI7MCg/hqdefault_130300.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7rR7O-ajJqZqiVD86R04v0E87bQ"
+      },
+      {
+        "title": "A Simple Way to Learn Complex Skills",
+        "url": "https://youtu.be/OI_3bQ-EWSI",
+        "thumbHover": "https://i.ytimg.com/an_webp/OI_3bQ-EWSI/mqdefault_6s.webp?du=3000&sqp=CJDmr6oG&rs=AOn4CLDi58txNBTvkVuCg18PwC7SWi960A",
+        "thumb": "https://i.ytimg.com/vi/OI_3bQ-EWSI/hqdefault_177966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnY45pOszZymwG3uhDPEat2iWuqw"
+      },
+      {
+        "title": "The purest coding style, where bugs are near impossible",
+        "url": "https://youtu.be/HlgG395PQWw",
+        "thumbHover": "https://i.ytimg.com/an_webp/HlgG395PQWw/mqdefault_6s.webp?du=3000&sqp=CLTfr6oG&rs=AOn4CLCFtDVjYoZx-HCmP388YLV5bPMk7g",
+        "thumb": "https://i.ytimg.com/vi/HlgG395PQWw/hqdefault_5866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKsasNp88EbQAg0MypstlZiQbe1A"
+      },
+      {
+        "title": "Never install locally, there's a better way",
+        "url": "https://youtu.be/J0NuOlA2xDc",
+        "thumbHover": "https://i.ytimg.com/an_webp/J0NuOlA2xDc/mqdefault_6s.webp?du=3000&sqp=CI_or6oG&rs=AOn4CLD8IUaz_dU8EwJMFFX05ZS_y4Sz8g",
+        "thumb": "https://i.ytimg.com/vi/J0NuOlA2xDc/hqdefault_18966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCk0MMxgW5VWMm8Iq3SMw9u5UwJ2Q"
+      },
+      {
+        "title": "Kubernetes Explained in 100 Seconds",
+        "url": "https://youtu.be/PziYflu8cB8",
+        "thumbHover": "https://i.ytimg.com/an_webp/PziYflu8cB8/mqdefault_6s.webp?du=3000&sqp=CJznr6oG&rs=AOn4CLAap0RIAjp6G-jyi2yQCiC2xM-JqA",
+        "thumb": "https://i.ytimg.com/vi/DC471a9qrU4/mqdefault.jpg"
+      },
+      {
+        "title": "Big projects are ditching TypeScript… why?",
+        "url": "https://youtu.be/5ChkQKUzDCs",
+        "thumbHover": "https://i.ytimg.com/an_webp/5ChkQKUzDCs/mqdefault_6s.webp?du=3000&sqp=CMfhr6oG&rs=AOn4CLBiBT5nOXIqBqfL5Xm0vVAoMAvjiA",
+        "thumb": "https://i.ytimg.com/vi/5ChkQKUzDCs/hqdefault_192000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBrKCugyj7k7HIrgymu11ozzAFAHA"
+      },
+      {
+        "title": "Is Learning TypeScript A Waste Of Time?",
+        "url": "https://youtu.be/GhKFQOA28Nk",
+        "thumbHover": "https://i.ytimg.com/an_webp/GhKFQOA28Nk/mqdefault_6s.webp?du=3000&sqp=CJWDsKoG&rs=AOn4CLDydnSF7g_BSJUtCnMXUGg7pmmP3A",
+        "thumb": "https://i.ytimg.com/vi/GhKFQOA28Nk/hqdefault_26200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxaVCW-H6eYC5KUC6_7F0UIxn5Rw"
+      },
+      {
+        "title": "How to use TypeScript with React... But should you?",
+        "url": "https://youtu.be/ydkQlJhodio",
+        "thumbHover": "https://i.ytimg.com/an_webp/ydkQlJhodio/mqdefault_6s.webp?du=3000&sqp=CLCAsKoG&rs=AOn4CLAWau0W572zdT-Jk3LjYGdQ49CBVA",
+        "thumb": "https://i.ytimg.com/vi/ydkQlJhodio/hqdefault_74133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpikqjKiJv4d4w9b1oFw0ERj0NjA"
+      }
+    ],
+    "others": [
+      {
+        "title": "How to use TypeScript with React... But should you?",
+        "url": "https://youtu.be/ydkQlJhodio",
+        "thumbHover": "https://i.ytimg.com/an_webp/ydkQlJhodio/mqdefault_6s.webp?du=3000&sqp=CLCAsKoG&rs=AOn4CLAWau0W572zdT-Jk3LjYGdQ49CBVA",
+        "thumb": "https://i.ytimg.com/vi/ydkQlJhodio/hqdefault_74133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpikqjKiJv4d4w9b1oFw0ERj0NjA"
+      },
+      {
+        "title": "How to use TypeScript with React... But should you?",
+        "url": "https://youtu.be/ydkQlJhodio",
+        "thumbHover": "https://i.ytimg.com/an_webp/ydkQlJhodio/mqdefault_6s.webp?du=3000&sqp=CLCAsKoG&rs=AOn4CLAWau0W572zdT-Jk3LjYGdQ49CBVA",
+        "thumb": "https://i.ytimg.com/vi/ydkQlJhodio/hqdefault_74133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpikqjKiJv4d4w9b1oFw0ERj0NjA"
+      },
+      {
+        "title": "How to use TypeScript with React... But should you?",
+        "url": "https://youtu.be/ydkQlJhodio",
+        "thumbHover": "https://i.ytimg.com/an_webp/ydkQlJhodio/mqdefault_6s.webp?du=3000&sqp=CLCAsKoG&rs=AOn4CLAWau0W572zdT-Jk3LjYGdQ49CBVA",
+        "thumb": "https://i.ytimg.com/vi/ydkQlJhodio/hqdefault_74133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpikqjKiJv4d4w9b1oFw0ERj0NjA"
+      },
+      {
+        "title": "How to use TypeScript with React... But should you?",
+        "url": "https://youtu.be/ydkQlJhodio",
+        "thumbHover": "https://i.ytimg.com/an_webp/ydkQlJhodio/mqdefault_6s.webp?du=3000&sqp=CLCAsKoG&rs=AOn4CLAWau0W572zdT-Jk3LjYGdQ49CBVA",
+        "thumb": "https://i.ytimg.com/vi/ydkQlJhodio/hqdefault_74133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpikqjKiJv4d4w9b1oFw0ERj0NjA"
+      },
+      {
+        "title": "How to use TypeScript with React... But should you?",
+        "url": "https://youtu.be/ydkQlJhodio",
+        "thumbHover": "https://i.ytimg.com/an_webp/ydkQlJhodio/mqdefault_6s.webp?du=3000&sqp=CLCAsKoG&rs=AOn4CLAWau0W572zdT-Jk3LjYGdQ49CBVA",
+        "thumb": "https://i.ytimg.com/vi/ydkQlJhodio/hqdefault_74133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpikqjKiJv4d4w9b1oFw0ERj0NjA"
+      },
+      {
+        "title": "How to use TypeScript with React... But should you?",
+        "url": "https://youtu.be/ydkQlJhodio",
+        "thumbHover": "https://i.ytimg.com/an_webp/ydkQlJhodio/mqdefault_6s.webp?du=3000&sqp=CLCAsKoG&rs=AOn4CLAWau0W572zdT-Jk3LjYGdQ49CBVA",
+        "thumb": "https://i.ytimg.com/vi/ydkQlJhodio/hqdefault_74133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpikqjKiJv4d4w9b1oFw0ERj0NjA"
+      },
+      {
+        "title": "How to use TypeScript with React... But should you?",
+        "url": "https://youtu.be/ydkQlJhodio",
+        "thumbHover": "https://i.ytimg.com/an_webp/ydkQlJhodio/mqdefault_6s.webp?du=3000&sqp=CLCAsKoG&rs=AOn4CLAWau0W572zdT-Jk3LjYGdQ49CBVA",
+        "thumb": "https://i.ytimg.com/vi/ydkQlJhodio/hqdefault_74133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpikqjKiJv4d4w9b1oFw0ERj0NjA"
+      },
+      {
+        "title": "How to use TypeScript with React... But should you?",
+        "url": "https://youtu.be/ydkQlJhodio",
+        "thumbHover": "https://i.ytimg.com/an_webp/ydkQlJhodio/mqdefault_6s.webp?du=3000&sqp=CLCAsKoG&rs=AOn4CLAWau0W572zdT-Jk3LjYGdQ49CBVA",
+        "thumb": "https://i.ytimg.com/vi/ydkQlJhodio/hqdefault_74133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpikqjKiJv4d4w9b1oFw0ERj0NjA"
+      },
+      {
+        "title": "How to use TypeScript with React... But should you?",
+        "url": "https://youtu.be/ydkQlJhodio",
+        "thumbHover": "https://i.ytimg.com/an_webp/ydkQlJhodio/mqdefault_6s.webp?du=3000&sqp=CLCAsKoG&rs=AOn4CLAWau0W572zdT-Jk3LjYGdQ49CBVA",
+        "thumb": "https://i.ytimg.com/vi/ydkQlJhodio/hqdefault_74133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpikqjKiJv4d4w9b1oFw0ERj0NjA"
+      },
+      {
+        "title": "How to use TypeScript with React... But should you?",
+        "url": "https://youtu.be/ydkQlJhodio",
+        "thumbHover": "https://i.ytimg.com/an_webp/ydkQlJhodio/mqdefault_6s.webp?du=3000&sqp=CLCAsKoG&rs=AOn4CLAWau0W572zdT-Jk3LjYGdQ49CBVA",
+        "thumb": "https://i.ytimg.com/vi/ydkQlJhodio/hqdefault_74133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpikqjKiJv4d4w9b1oFw0ERj0NjA"
+      }
+    ]
+  }
+  
+}
